@@ -93,6 +93,6 @@ By the end of the lab, the **MITRE ATT&CK Matrix** in Wazuh is fully populated w
 4.  **Recovered** the integrity of the system using **File Integrity Monitoring (FIM)** logs.
 
 ---
-**Author:** Habib (Lil B)  
+**Author:** Habib (Lil Bibyy)  
 **Project:** SOC Home-Lab Simulation  
 **Tools:** Wazuh, Kali Linux, Ubuntu, Windows 11
